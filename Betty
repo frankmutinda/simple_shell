@@ -6,6 +6,6 @@
 */
 int main(void)
 {
-printf("code that passes betty checks");
+printf("Code that passes betty checks")
 return (0);
 }
