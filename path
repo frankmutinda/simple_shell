@@ -21,7 +21,7 @@ x++;
 }
 return (path);
 }
-		env++;
-	}
-	return (NULL);
+env++;
+}
+return (NULL);
 }
