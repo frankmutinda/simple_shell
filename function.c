@@ -17,4 +17,3 @@ while (buf[i])
 free(buf[i]);
 i++;
 }
-fr
