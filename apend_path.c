@@ -10,7 +10,7 @@
 */
 char *append_path(char *path, char *command)
 {
-	char *buf;
+char *buf;
 	size_t i = 0, j = 0;
 
 	if (command == 0)
